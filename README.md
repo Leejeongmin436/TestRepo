@@ -1,2 +1,4 @@
 # TestRepo
-Repository for git section
+Repository for git session
+- commit test
+- merge test 3
